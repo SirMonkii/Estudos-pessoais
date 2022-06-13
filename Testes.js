@@ -13,7 +13,7 @@ rl.question("Qnts kgs tu pesa?", function (Kilos){
     console.log("Vc tem um peso ok");
   } 
   else{
-    console.log("Que porra de peso eh esse parsa");
+    console.log("Vc tem um peso abaixo da média");
   }
   {console.log();}
   rl.close();
