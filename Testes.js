@@ -10,7 +10,7 @@ rl.question("Qnts kgs tu pesa?", function (Kilos){
   console.log(`Ah, ent tu pesa ${Kilos}kgs`);
   {console.log();}
   if (Kilos >= 70){
-    console.log("EU NAO ENTENDO");
+    console.log("Vc tem um peso ok");
   } 
   else{
     console.log("Vc tem um peso abaixo da média");
